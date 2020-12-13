@@ -1,0 +1,33 @@
+html{
+    background-color:#fbf0f0;
+}
+
+h1{
+    background-color: #dfd3d3;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    padding: 30px 0;
+    text-shadow: 5px 3px 10px #7c7575;
+}
+
+h3{
+    
+    padding: 3px 3px 3px 5px;
+    margin:30px 20px 0;
+    background-color: #b8b0b0;
+    display: table;
+    font-family: 'Montserrat', sans-serif;
+}
+
+p{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    color: #222831;
+}
+
+h2{
+    font-family:'Montserrat', sans-serif;
+    padding: 0px 2px;
+    font-size: 25px;
+}
